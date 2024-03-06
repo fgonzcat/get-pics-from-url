@@ -6,7 +6,7 @@ This program downloads the jpg pictures of a given website URL. First, the progr
 GetPicsFromURL is a software to download JPG pictures from a website, using its URL through wget.
 by F. Gonzalez, CA 27/02/2015
 
-How to use it: /Users/fgonzalez/University/Programas/2021-Get-Pics-From-URL/./get-pics-from-url.sh URL
+How to use it: ./get-pics-from-url.sh URL
 EXAMPLES
 Usage: ./get-pics-from-url.sh www.site.com
 Usage: ./get-pics-from-url.sh www.site.com/subfolder
